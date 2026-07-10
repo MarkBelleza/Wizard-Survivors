@@ -7,7 +7,7 @@ A virtual reality action game inspired by Vampire Survivors. You take on the rol
 
 # Gameplay Demo
 
-[![Gameplay Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=-p7zpGmfydU)
+[![Gameplay Demo](https://img.youtube.com/vi/-p7zpGmfydU/hqdefault.jpg)](https://www.youtube.com/watch?v=-p7zpGmfydU)
 
 # Screenshots
 
