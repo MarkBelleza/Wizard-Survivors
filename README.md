@@ -5,7 +5,7 @@ Project Description
 
 A virtual reality action game inspired by Vampire Survivors. You take on the role of a wizard, fighting against waves of golem monsters inside a VR environment. Using the controllers, you will cast a variety of spells against the enemy. To switch spells you will need to teleport around the environment and collide with or shoot mysterious floating black objects. Furthermore, destroying enemies empowers you and increases your AURA. When enough AURA has been collected you can consume them and direct its devastating power to your enemies by shouting “DOOM!”. The purpose of the game is to blend the survival and bullet hell aspect of Vampire Survivors with the mechanics and first person perspective of VR to create a more immersive experience and a greater sense of urgency for the player compared to the traditional desktop environment with a similar game.
 
-# Gameplay Demo
+# Gameplay Demo Video
 
 [![Gameplay Demo](https://img.youtube.com/vi/-p7zpGmfydU/hqdefault.jpg)](https://www.youtube.com/watch?v=-p7zpGmfydU)
 
